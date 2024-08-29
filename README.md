@@ -1,5 +1,4 @@
-[HR_Analytics.csv.csv](https://github.com/user-attachments/files/16790438/HR_Analytics.csv.csv)
-[Employee_Data_Analysis_2.pptx](https://github.com/user-attachments/files/16790437/Employee_Data_Analysis_2.pptx)
+
 - 👋 Hi, I’m @diviniv
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
